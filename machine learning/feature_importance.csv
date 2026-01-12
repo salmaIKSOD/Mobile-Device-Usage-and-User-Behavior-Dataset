@@ -1,0 +1,13 @@
+Feature,Importance
+cat__Device_Model_OnePlus 9,0.00043537201423742635
+cat__Device_Model_Samsung Galaxy S21,0.0006750411112671975
+cat__Device_Model_Xiaomi Mi 11,0.0004043632883002461
+cat__Device_Model_iPhone 12,0.00039602052475298734
+cat__Operating_System_iOS,0.00024860202808631415
+cat__Gender_Male,0.0010586602004386907
+num__App_Usage_Time,0.22070440576619416
+num__Screen_On_Time,0.13400823114680954
+num__Battery_Drain,0.22271228880571411
+num__Number_of_Apps_Installed,0.2301971783537769
+num__Data_Usage,0.18631867296084859
+num__Age,0.002841163799573862
